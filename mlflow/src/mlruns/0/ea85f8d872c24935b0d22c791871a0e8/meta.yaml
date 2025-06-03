@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sujit/Desktop/chestCancer/mlflow/src/mlruns/0/ea85f8d872c24935b0d22c791871a0e8/artifacts
+deleted_time: 1748925840291
+end_time: 1748925783024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ea85f8d872c24935b0d22c791871a0e8
+run_name: gaudy-frog-322
+run_uuid: ea85f8d872c24935b0d22c791871a0e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748925763980
+status: 3
+tags: []
+user_id: sujit

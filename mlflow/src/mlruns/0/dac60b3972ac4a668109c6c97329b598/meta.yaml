@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sujit/Desktop/chestCancer/mlflow/src/mlruns/0/dac60b3972ac4a668109c6c97329b598/artifacts
+deleted_time: 1748920788163
+end_time: 1748920659604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dac60b3972ac4a668109c6c97329b598
+run_name: loud-chimp-495
+run_uuid: dac60b3972ac4a668109c6c97329b598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748920659428
+status: 4
+tags: []
+user_id: sujit
