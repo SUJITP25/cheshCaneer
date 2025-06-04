@@ -1,0 +1,5 @@
+create a project template by executimng template.py fiile 
+write code at setup.py and pyproject.toml
+create virtual environment and install dependencies using requiremets.txt 
+pip install -r requirements.txt
+setup mongodb and create username and password and connect to Database 

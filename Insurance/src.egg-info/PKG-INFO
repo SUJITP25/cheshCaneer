@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: An MLOps project for productionizing models
+Author: Sujit Patel
+Author-email: Sujit Patel <sujitpatel1111@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Dynamic: author

@@ -7,6 +7,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 from sklearn.ensemble import RandomForestClassifier
 
+import dagshub 
+dagshub.init(repo_owner='SUJITP25', repo_name='cheshCaneer', mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/SUJITP25/cheshCaneer.mlflow")
+mlflow.set_experiment("First Experiment")
+
+
+
 wine = load_wine()
 x=wine.data 
 y=wine.target 
