@@ -1,0 +1,17 @@
+DataScience LifeCycle
+
+Requirement gathering 
+EDA 
+Feature Engineering
+Feature Selection 
+Model Creation 
+Model HyperParameter 
+Model Deployment 
+Retraining Approaches 
+
+
+What is MLOPS? 
+MLOPS refers to the practice and discipline withing machine learning that aims to unify and streamline the machine learning system development and maintaining Machine learning System Ops. collaboration between DataScientist, Ml Engineers and optimize end to end lifecycle of the machine learning Applications. 
+
+
+
