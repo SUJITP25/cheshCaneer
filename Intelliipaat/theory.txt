@@ -1,0 +1,5 @@
+What is Cloud Computing? 
+It Infra Structure and Hosting a Dedoicated Website on a server that runs 24 * 7. 
+
+
+

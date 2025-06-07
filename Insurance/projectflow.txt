@@ -3,3 +3,23 @@ write code at setup.py and pyproject.toml
 create virtual environment and install dependencies using requiremets.txt 
 pip install -r requirements.txt
 setup mongodb and create username and password and connect to Database 
+Upload data to the mongoDB Database using mongoDB_demo.ipynb file
+
+
+step2 : 
+write logger,exception code in file and test it in demo.py file 
+notebook.ipynb and perform EDA in it. 
+
+
+
+Data Ingestion 
+(1) Write Python function/class to connect the Database,mongo_db_connection.py 
+(2) in data_access folder in proj1_data.py access data as pandas dataframe
+(3) Add code to config_entity.py  
+(4) Make Training and Testing pipeline 
+
+
+
+Data Validation 
+(1) Add methods like load_yaml, read_yaml, load_object, save_object, load_numpy_array, save_numpy_array method in main_utils.py 
+(2) Add Schema.yaml file in the config folder 
